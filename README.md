@@ -1,6 +1,6 @@
 # Arman Sarkissian
-Full-Stack Developer with experience working to outline organizational needs and translate them into extensive lines of code that support objectives.
-Adept creation of websites using skills like: React, Next, Node, HTML&CSS.
+I'm a seasoned Full-Stack Developer adept at transforming organizational needs into comprehensive lines of code. My journey involves creating dynamic websites using technologies like React, Next, Node, HTML, and CSS.
+As an indie full-stack developer and content creator, I'm on a mission to build my version of the digital world, one project at a time. Each coding endeavor starts from the ground up — from planning and design to solving real-life problems with code. Join me on this exciting journey as we craft innovative solutions and bring ideas to life.
 
 **`Digital Craftman (Developer/Filmmaker/Creator)`**
 
