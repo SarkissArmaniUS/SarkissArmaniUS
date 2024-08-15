@@ -1,8 +1,5 @@
 # Arman Sarkissian
-I am a full-stack developer and content creator, adept at transforming organizational needs into comprehensive
-lines of code. Each coding endeavor starts from the ground up — from planning and design to solving real-life
-problems with code. Collaborate with me on this mission as we engineer innovative solutions and bring ideas to
-fruition.
+As a full-stack developer and content creator, I excel in turning organizational needs into efficient, elegant code. My approach begins with thoughtful planning and design, ensuring that every project is built from the ground up to tackle real-world challenges. Let's join forces to engineer innovative solutions and bring your ideas to life.
 
 **`Digital Craftman (Developer/Filmmaker/Creator)`**
 
