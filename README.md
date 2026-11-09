@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Arman Sarkisian 👋</h1>
 
 <p align="center">
-  <b>Frontend / AI-Assisted Full-Stack Developer · Digital Craftsman</b><br>
+  <b>Full Stack / AI-Assisted Full-Stack Developer · Digital Craftsman</b><br>
   Shipping polished, high-performance web interfaces with Next.js & React.<br>
   📍 Poltava, Ukraine · Open to: <i>Remote · Hybrid · Relocation</i>
 </p>
