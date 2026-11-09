@@ -34,3 +34,71 @@ Whether it's optimizing Core Web Vitals, driving engineering standards via Test-
 <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 <br />
+
+
+<h1 align="center">Hi, I'm YOUR NAME 👋</h1>
+
+<p align="center">
+  <b>Full-Stack Developer</b> building fast, scalable web & mobile apps.<br>
+  Open to: <i>Junior / Mid Developer roles · Freelance projects</i>
+</p>
+
+<p align="center">
+  <a href="https://yourwebsite.dev"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:you@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+## 🚀 About me
+
+- 🎓 Studying / Studied: **Your degree, University**
+- 🔭 Currently building: **your current project**
+- 🌱 Currently learning: **Docker, System Design, Cloud**
+- 💡 I like: **clean code, solving real problems, shipping fast**
+
+---
+
+## 🛠 Tech stack
+
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+
+**Backend & Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,mysql,postgres,mongodb,firebase" />
+
+**Cloud & Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,gcp,aws,figma,linux" />
+
+---
+
+## ⭐ Featured projects
+
+| | Project | What it does | Tech | Links |
+|---|---|---|---|---|
+| <img src="https://via.placeholder.com/80" width="80"> | **Project One** | One short sentence: problem it solves + result (e.g. "used by 500+ students"). | React, Node, MySQL | [Live](https://example.com) · [Code](https://github.com/you/project-one) |
+| <img src="https://via.placeholder.com/80" width="80"> | **Project Two** | One short sentence about what it does. | Next.js, Firebase | [Live](https://example.com) · [Code](https://github.com/you/project-two) |
+| <img src="https://via.placeholder.com/80" width="80"> | **Project Three** | One short sentence about what it does. | React Native, API | [App Store](https://example.com) · [Code](https://github.com/you/project-three) |
+
+> 📌 More projects are pinned above and in my [portfolio](https://yourwebsite.dev).
+
+---
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Let's work together
+
+Have a project or a role in mind? **[Email me](mailto:you@email.com)** or **[book a call](https://calendly.com/yourname)**.
+
+<p align="center"><sub>Thanks for visiting ✨</sub></p>
