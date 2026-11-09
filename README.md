@@ -63,7 +63,9 @@ Have a project or a role in mind? **[Email me](mailto:you@email.com)** or **[boo
 
 ## 🚀 About me
 
-I bridge complex software engineering, 3D visualization and creative content. I use AI engineering workflows (**Cursor, Claude Code**) to ship faster, **without** skipping logical validation, architecture or performance.
+As an AI-Augmented Full-Stack Engineer and QA-Minded Developer, I bridge complex software engineering, disciplined quality assurance, and creative technology. I specialize in leveraging advanced AI engineering workflows (Cursor, Claude Code) to ship products significantly faster, without ever skipping logical validation, robust architecture, or system performance.
+Driven by Test-Driven Development (TDD) and a strict QA mindset, I ensure that rapid delivery coexists with rock-solid production standards. Whether it's optimizing Core Web Vitals, engineering scalable backend architectures, writing comprehensive automated tests, or occasionally blending in 3D visualization as a high-end digital craftsman — my ultimate focus is always on delivering predictable, maintainable, and high-performance software.
+
 
 - ⚡ Optimizing **Core Web Vitals** (95+ Lighthouse on production work)
 - 🧪 Driving quality with **TDD** and strict manual code reviews
