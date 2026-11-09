@@ -1,3 +1,4 @@
+# PROFILE UNDER CONSTRUCTION
 # Arman Sarkisian
 
 As an AI-Augmented Full-Stack Engineer and Digital Craftsman, I bridge the gap between complex software engineering, 3D visualization, and creative content development. I specialize in accelerating software product delivery cycles using advanced AI engineering workflows (Cursor, Claude Code) without sacrificing logical validation, system architecture, or performance overhead. 
