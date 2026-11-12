@@ -1,3 +1,28 @@
+## 1) Строка в таблицу Featured projects
+
+| <img src="https://raw.githubusercontent.com/SarkissArmaniUS/YOUR-REPO-NAME/main/docs/demo.gif" width="80"> | **[Animated Travel Landing](https://github.com/SarkissArmaniUS/YOUR-REPO-NAME)** | Motion-focused travel landing page: **GSAP ScrollTrigger** pinned horizontal gallery, **Lenis** smooth scroll, parallax and staggered reveals with **Framer Motion**, plus a working contact form (API route + Resend). Respects reduced-motion. | Next.js, TypeScript, Tailwind, GSAP, Framer Motion, Lenis, Resend | [Live](https://YOUR-DOMAIN.vercel.app) · [Code](https://github.com/SarkissArmaniUS/YOUR-REPO-NAME) |
+
+---
+
+## 2) Отдельная секция про фокус на frontend/анимации
+
+## 🎬 Frontend & motion focus
+
+I care about how interfaces *feel*: scroll, transitions, micro-interactions and performance, not only how they look.
+
+| | |
+|---|---|
+| **Scroll-driven UI** | GSAP ScrollTrigger (pinned horizontal sections, scrub), Lenis smooth scroll, parallax |
+| **Component motion** | Framer Motion: staggered reveals, spring interactions, animated modals, accordions, carousels |
+| **Craft** | Responsive from 320px, `prefers-reduced-motion` support, accessible modals and menus, SEO and Open Graph |
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,figma" />
+  &nbsp;<b>GSAP</b> · <b>Framer Motion</b> · <b>Lenis</b>
+</p>
+
+> 🎞 Animation-heavy work: **[Animated Travel Landing](https://github.com/SarkissArmaniUS/YOUR-REPO-NAME)** · **[Modern UI/UX](https://github.com/SarkissArmaniUS/React_Modern_UI_UX)**
+
 <h1 align="center">Hi, I'm Arman Sarkisian 👋</h1>
 
 <p align="center">
