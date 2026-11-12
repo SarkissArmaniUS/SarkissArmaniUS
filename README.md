@@ -49,11 +49,11 @@ Driven by Test-Driven Development (TDD) and a strict QA mindset, I ensure that r
 
 ---
 
-## ⭐ Featured projects
+## ⭐ Featured projects / Frontend & Backend
 
 | | Project | What it does | Tech | Links |
 |---|---|---|---|---|
-| <img src="https://raw.githubusercontent.com/SarkissArmaniUS/northline/main/docs/screenshots/home.png" width="80"> | **[Northline](https://github.com/SarkissArmaniUS/northline)** (full-stack e-commerce) | Production-style store with a polished UI: **Stripe Checkout** with a signed, idempotent webhook, atomic stock reservation, role-based admin panel (orders and products), and accounts with order history. **97–100 PageSpeed (mobile)**. | Next.js, TypeScript, Tailwind, Framer Motion, MongoDB, Stripe, Better Auth, Vitest | [Live](https://northline-store-ai.vercel.app) · [Code](https://github.com/SarkissArmaniUS/northline) |
+| <img src="" width="80"> | **[Northline](https://github.com/SarkissArmaniUS/northline)** (full-stack e-commerce) | Production-style store with a polished UI: **Stripe Checkout** with a signed, idempotent webhook, atomic stock reservation, role-based admin panel (orders and products), and accounts with order history. **97–100 PageSpeed (mobile)**. | Next.js, TypeScript, Tailwind, Framer Motion, MongoDB, Stripe, Better Auth, Vitest | [Live](https://northline-store-ai.vercel.app) · [Code](https://github.com/SarkissArmaniUS/northline) |
 
 > 📌 Client work may be under NDA, so more projects are pinned above.
 
@@ -63,8 +63,8 @@ Driven by Test-Driven Development (TDD) and a strict QA mindset, I ensure that r
 
 | | Project | What it does | Tech | Links |
 |---|---|---|---|---|
-| <img src="https://raw.githubusercontent.com/SarkissArmaniUS/YOUR-REPO-NAME/main/docs/demo.gif" width="80"> | **[Animated Travel Agency Landing](https://github.com/SarkissArmaniUS/Travel-Agency)** | Motion-focused travel landing page: **GSAP ScrollTrigger** pinned horizontal gallery, **Lenis** smooth scroll, parallax and staggered reveals with **Framer Motion**, plus a working contact form (API route + Resend). Respects reduced-motion. | Next.js, TypeScript, Tailwind, GSAP, Framer Motion, Lenis, Resend | [Live](https://YOUR-DOMAIN.vercel.app) · [Code](https://github.com/SarkissArmaniUS/YOUR-REPO-NAME) |
-| <img src="https://raw.githubusercontent.com/SarkissArmaniUS/northline/main/docs/screenshots/home.png" width="80"> | **[Modern UI/UX](https://github.com/SarkissArmaniUS/React_Modern_UI_UX)** | Production-style store with animated topographic UI, secure Stripe Checkout, atomic stock reservation, user accounts, and an admin panel. **97–100 PageSpeed**. | Next.js, TypeScript, Tailwind, Framer Motion, MongoDB, Stripe, Better Auth, Vitest | [Live](https://next-js-travel-agency.vercel.app/) · [Code](https://github.com/SarkissArmaniUS/Travel-Agency) |
+| <img src="" width="80"> | **[Animated Travel Agency Landing](https://github.com/SarkissArmaniUS/Travel-Agency)** | Motion-focused travel landing page: **GSAP ScrollTrigger** pinned horizontal gallery, **Lenis** smooth scroll, parallax and staggered reveals with **Framer Motion**, plus a working contact form (API route + Resend). Respects reduced-motion. | Next.js, TypeScript, Tailwind, GSAP, Framer Motion, Lenis, Resend | [Live](https://YOUR-DOMAIN.vercel.app) · [Code](https://github.com/SarkissArmaniUS/YOUR-REPO-NAME) |
+| <img src="" width="80"> | **[Modern UI/UX](https://github.com/SarkissArmaniUS/React_Modern_UI_UX)** | Production-style store with animated topographic UI, secure Stripe Checkout, atomic stock reservation, user accounts, and an admin panel. **97–100 PageSpeed**. | Next.js, TypeScript, Tailwind, Framer Motion, MongoDB, Stripe, Better Auth, Vitest | [Live](https://next-js-travel-agency.vercel.app/) · [Code](https://github.com/SarkissArmaniUS/Travel-Agency) |
 
 > 📌 Client work may be under NDA, so more projects are pinned above.
 
@@ -74,8 +74,8 @@ Driven by Test-Driven Development (TDD) and a strict QA mindset, I ensure that r
 
 | | Project | What it does | Tech | Links |
 |---|---|---|---|---|
-| <img src="https://raw.githubusercontent.com/SarkissArmaniUS/northline/main/docs/screenshots/home.png" width="80"> | **[qa-playwright-saucedemo](https://github.com/SarkissArmaniUS/qa-playwright-saucedemo)** | UI automation framework: Page Objects, shared auth session, 24 tests (login, sorting, cart, checkout) | Playwright, TypeScript | [Report](https://sarkissarmanius.github.io/qa-playwright-saucedemo/) · [Code](https://github.com/SarkissArmaniUS/qa-playwright-saucedemo) |
-| <img src="https://raw.githubusercontent.com/SarkissArmaniUS/northline/main/docs/screenshots/home.png" width="80"> | **[qa-api-restful-booker](https://github.com/SarkissArmaniUS/qa-api-restful-booker)** | API suite with schema validation, auth checks, test plan, test cases and 5 documented bugs | Playwright, Zod, Postman, Newman | [Report](https://sarkissarmanius.github.io/qa-api-restful-booker/) · [Code](https://github.com/SarkissArmaniUS/qa-api-restful-booker) |
+| <img src="" width="80"> | **[qa-playwright-saucedemo](https://github.com/SarkissArmaniUS/qa-playwright-saucedemo)** | UI automation framework: Page Objects, shared auth session, 24 tests (login, sorting, cart, checkout) | Playwright, TypeScript | [Report](https://sarkissarmanius.github.io/qa-playwright-saucedemo/) · [Code](https://github.com/SarkissArmaniUS/qa-playwright-saucedemo) |
+| <img src="" width="80"> | **[qa-api-restful-booker](https://github.com/SarkissArmaniUS/qa-api-restful-booker)** | API suite with schema validation, auth checks, test plan, test cases and 5 documented bugs | Playwright, Zod, Postman, Newman | [Report](https://sarkissarmanius.github.io/qa-api-restful-booker/) · [Code](https://github.com/SarkissArmaniUS/qa-api-restful-booker) |
 
 > 📌 Client work may be under NDA, so more projects are pinned above.
 
