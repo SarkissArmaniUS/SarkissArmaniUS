@@ -54,28 +54,19 @@ Driven by Test-Driven Development (TDD) and a strict QA mindset, I ensure that r
 | | Project | What it does | Tech | Links |
 |---|---|---|---|---|
 | <img src="https://raw.githubusercontent.com/SarkissArmaniUS/northline/main/docs/screenshots/home.png" width="80"> | **[Northline](https://github.com/SarkissArmaniUS/northline)** (full-stack e-commerce) | Production-style store with a polished UI: **Stripe Checkout** with a signed, idempotent webhook, atomic stock reservation, role-based admin panel (orders and products), and accounts with order history. **97–100 PageSpeed (mobile)**. | Next.js, TypeScript, Tailwind, Framer Motion, MongoDB, Stripe, Better Auth, Vitest | [Live](https://northline-store-ai.vercel.app) · [Code](https://github.com/SarkissArmaniUS/northline) |
-| <img src="https://raw.githubusercontent.com/SarkissArmaniUS/YOUR-REPO-NAME/main/docs/demo.gif" width="80"> | **[Animated Travel Landing](https://github.com/SarkissArmaniUS/YOUR-REPO-NAME)** | Motion-focused travel landing page: **GSAP ScrollTrigger** pinned horizontal gallery, **Lenis** smooth scroll, parallax and staggered reveals with **Framer Motion**, plus a working contact form (API route + Resend). Respects reduced-motion. | Next.js, TypeScript, Tailwind, GSAP, Framer Motion, Lenis, Resend | [Live](https://YOUR-DOMAIN.vercel.app) · [Code](https://github.com/SarkissArmaniUS/YOUR-REPO-NAME) |
-| <img src="https://raw.githubusercontent.com/SarkissArmaniUS/northline/main/docs/screenshots/home.png" width="80"> | **[Modern UI/UX](https://github.com/SarkissArmaniUS/React_Modern_UI_UX)** | Production-style store with animated topographic UI, secure Stripe Checkout, atomic stock reservation, user accounts, and an admin panel. **97–100 PageSpeed**. | Next.js, TypeScript, Tailwind, Framer Motion, MongoDB, Stripe, Better Auth, Vitest | [Live](https://modernvitewebsite.vercel.app/) · [Code](https://github.com/SarkissArmaniUS/React_Modern_UI_UX) |
 
 > 📌 Client work may be under NDA, so more projects are pinned above.
 
 ---
 
-# 🎬 Frontend & motion focus
- 
-I care about how interfaces *feel*: scroll, transitions, micro-interactions and performance, not only how they look.
- 
-| | |
-|---|---|
-| **Scroll-driven UI** | GSAP ScrollTrigger (pinned horizontal sections, scrub), Lenis smooth scroll, parallax |
-| **Component motion** | Framer Motion: staggered reveals, spring interactions, animated modals, accordions, carousels |
-| **Craft** | Responsive from 320px, `prefers-reduced-motion` support, accessible modals and menus, SEO and Open Graph |
- 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,figma" />
-  &nbsp;<b>GSAP</b> · <b>Framer Motion</b> · <b>Lenis</b>
-</p>
-> 🎞 Animation-heavy work: **[Animated Travel Landing](https://github.com/SarkissArmaniUS/YOUR-REPO-NAME)** · **[Modern UI/UX](https://github.com/SarkissArmaniUS/React_Modern_UI_UX)**
+## ⭐🎬 Frontend & motion focus
+
+| | Project | What it does | Tech | Links |
+|---|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/SarkissArmaniUS/YOUR-REPO-NAME/main/docs/demo.gif" width="80"> | **[Animated Travel Agency Landing](https://github.com/SarkissArmaniUS/Travel-Agency)** | Motion-focused travel landing page: **GSAP ScrollTrigger** pinned horizontal gallery, **Lenis** smooth scroll, parallax and staggered reveals with **Framer Motion**, plus a working contact form (API route + Resend). Respects reduced-motion. | Next.js, TypeScript, Tailwind, GSAP, Framer Motion, Lenis, Resend | [Live](https://YOUR-DOMAIN.vercel.app) · [Code](https://github.com/SarkissArmaniUS/YOUR-REPO-NAME) |
+| <img src="https://raw.githubusercontent.com/SarkissArmaniUS/northline/main/docs/screenshots/home.png" width="80"> | **[Modern UI/UX](https://github.com/SarkissArmaniUS/React_Modern_UI_UX)** | Production-style store with animated topographic UI, secure Stripe Checkout, atomic stock reservation, user accounts, and an admin panel. **97–100 PageSpeed**. | Next.js, TypeScript, Tailwind, Framer Motion, MongoDB, Stripe, Better Auth, Vitest | [Live](https://next-js-travel-agency.vercel.app/) · [Code](https://github.com/SarkissArmaniUS/Travel-Agency) |
+
+> 📌 Client work may be under NDA, so more projects are pinned above.
 
 ---
 
