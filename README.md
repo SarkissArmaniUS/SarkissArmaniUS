@@ -76,6 +76,7 @@ Driven by Test-Driven Development (TDD) and a strict QA mindset, I ensure that r
 |---|---|---|---|---|
 | <img src="" width="80"> | **[qa-playwright-saucedemo](https://github.com/SarkissArmaniUS/qa-playwright-saucedemo)** | UI automation framework: Page Objects, shared auth session, 24 tests (login, sorting, cart, checkout) | Playwright, TypeScript | [Report](https://sarkissarmanius.github.io/qa-playwright-saucedemo/) · [Code](https://github.com/SarkissArmaniUS/qa-playwright-saucedemo) |
 | <img src="" width="80"> | **[qa-api-restful-booker](https://github.com/SarkissArmaniUS/qa-api-restful-booker)** | API suite with schema validation, auth checks, test plan, test cases and 5 documented bugs | Playwright, Zod, Postman, Newman | [Report](https://sarkissarmanius.github.io/qa-api-restful-booker/) · [Code](https://github.com/SarkissArmaniUS/qa-api-restful-booker) |
+| <img src="https://raw.githubusercontent.com/SarkissArmaniUS/northline/main/docs/screenshots/home.png" width="80"> | **Northline E2E suite** (payments and auth) | 16 API and UI tests for the Northline store: signed Stripe webhook (invalid, replayed, amount mismatch, expired), race for the last pair in stock, server-side pricing, rate limiting, route protection. Isolated test database, runs in CI on every PR. | Playwright, TypeScript, MongoDB, Stripe | [CI](https://github.com/SarkissArmaniUS/northline/actions) · [Code](https://github.com/SarkissArmaniUS/northline/tree/main/e2e) |
 
 > 📌 Client work may be under NDA, so more projects are pinned above.
 
