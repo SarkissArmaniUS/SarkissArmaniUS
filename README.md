@@ -49,11 +49,12 @@ Driven by Test-Driven Development (TDD) and a strict QA mindset, I ensure that r
 
 ---
 
-## ⭐ Featured projects / Frontend & Backend
+## ⭐ Featured projects / Frontend & Backend / 🤖 AI
 
 | | Project | What it does | Tech | Links |
 |---|---|---|---|---|
 | <img src="" width="80"> | **[Northline](https://github.com/SarkissArmaniUS/northline)** (full-stack e-commerce) | Production-style store with a polished UI: **Stripe Checkout** with a signed, idempotent webhook, atomic stock reservation, role-based admin panel (orders and products), and accounts with order history. **97–100 PageSpeed (mobile)**. | Next.js, TypeScript, Tailwind, Framer Motion, MongoDB, Stripe, Better Auth, Vitest | [Live](https://northline-store-ai.vercel.app) · [Code](https://github.com/SarkissArmaniUS/northline) |
+| <img src="" width="80"> | **[DocParse AI]([https://github.com/YOUR_USERNAME](https://github.com/SarkissArmaniUS)/docparse-ai)** (AI document parser) | Turns invoice and résumé PDFs into validated JSON/CSV. Typed output via Zod schemas, **arithmetic validation** that flags totals the model got wrong, an **eval harness** with per-field accuracy, model fallback on overload, and access-key + rate-limit protection. | Next.js, TypeScript, Tailwind, Vercel AI SDK, Zod, Gemini API, Upstash | [Live]() · [Code]() |
 
 > 📌 Client work may be under NDA, so more projects are pinned above.
 
